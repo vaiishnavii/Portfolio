@@ -1,3 +1,7 @@
+const nextConfig = {
+	output: "export"
+}
+
 module.exports = {
 	reactStrictMode: true,
 	env: {
